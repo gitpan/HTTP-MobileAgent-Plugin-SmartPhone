@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Plugin of HTTP::MobileAgent for detecting smartphone'
 author:
   - 'Masayuki Matsuki <y.songmu@gmail.com>'
 build_requires:
@@ -22,4 +22,4 @@ no_index:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/Songmu/p5-HTTP-MobileAgent-Plugin-SmartPhone.git
-version: 0.01
+version: 0.011
