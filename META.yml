@@ -24,4 +24,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/Songmu/p5-HTTP-MobileAgent-Plugin-SmartPhone.git
-version: 0.014
+version: 0.02
